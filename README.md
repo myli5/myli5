@@ -42,7 +42,7 @@
   <li>https://www.coursera.org/account/accomplishments/records/33HUM2N4D8UE -Python and Rust with Linux Command Line Tools</li>
   <li>https://www.coursera.org/account/accomplishments/records/TPTZQ992E64A -Rust Fundamentals</li>
   <li>https://www.coursera.org/account/accomplishments/records/DTRX7UBLJZVS - Rust For DevOps</li>
-  <li https://www.coursera.org/account/accomplishments/records/ZS6XSY9ECBL8 - Rust For Large Language Model Operations LLMOps</li>
+  <li>https://www.coursera.org/account/accomplishments/records/ZS6XSY9ECBL8 - Rust For Large Language Model Operations LLMOps</li>
 </ul>
 <body>AWS
 <ul>
