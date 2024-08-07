@@ -53,7 +53,7 @@
 
 ### YouTube Channels
 <ul>
-  <li>https://www.youtube.com/watch?v=oqkEmI2i4F8](https://www.youtube.com/watch?v=gXxTKVs-GxY)</li>
+  <li>https://www.youtube.com/watch?v=gXxTKVs-GxY)</li>
   <li>https://www.youtube.com/@LearnAI-d2q</li>
 </ul>
 
