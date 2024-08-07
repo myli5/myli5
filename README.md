@@ -1,7 +1,7 @@
 ### Linkedin: https://www.linkedin.com/in/mythili-ramalingam-721a2a78/
 ### Education
 
-- **Purdue University Global** - MS -Data & Analytics
+- **Purdue University Global** - MS -Data & Analytics--Graduating soon
 - **Madurai Kamaraj University** - MSc & Bsc -Math & Computer Programming
 
 ### Technical Skills
