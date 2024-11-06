@@ -1,4 +1,3 @@
-### Google: https://www.cloudskillsboost.google/public_profiles/ffa26f1d-5a75-4bbd-9a70-7f9ad4a77ccd
 ### Linkedin: https://www.linkedin.com/in/mythili-ramalingam-721a2a78/
 ### Education
 
