@@ -1,5 +1,12 @@
 ### Linkedin: https://www.linkedin.com/in/mythili-ramalingam-721a2a78/
 ### Google: https://www.cloudskillsboost.google/public_profiles/ffa26f1d-5a75-4bbd-9a70-7f9ad4a77ccd
+### Alexa: https://www.amazon.com/s?k=mythili&i=alexa-skills&crid=2XS68A1HY3PDS&sprefix=mythili%2Calexa-skills%2C87&ref=nb_sb_noss_2
+### YouTube Channels
+<ul>
+  <li>https://www.youtube.com/watch?v=gXxTKVs-GxY)</li>
+  <li>https://www.youtube.com/@LearnAI-d2q</li>
+</ul>
+
 ### Education
 
 - **Purdue University Global** - MS -Data & Analytics--Graduating soon
