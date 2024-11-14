@@ -61,8 +61,8 @@
 
 ### Snowflake
 <ul>
-  <li>[Hands On Essentials - Data Engineering - Credly ](https://www.credly.com/badges/fcf124a1-cc5d-479c-b278-22189b69778c)</li>
-  <li>[https://www.youtube.com/@LearnAI-d2q](https://www.credly.com/badges/238d404e-fcaa-45a8-b690-d2ef86394c3e)</li>
+  <li>Hands On Essentials - Data Engineering - Credly(https://www.credly.com/badges/fcf124a1-cc5d-479c-b278-22189b69778c)</li>
+  <li>Hands On Essentials - Data Lake - Credly(https://www.youtube.com/@LearnAI-d2q](https://www.credly.com/badges/238d404e-fcaa-45a8-b690-d2ef86394c3e)</li>
 </ul>
 
 
