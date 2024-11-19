@@ -10,6 +10,7 @@
 ### Education
 
 - **Purdue University Global** - MS -Data & Analytics--Graduating Nov 2024
+  Machine Learning, Advanced AI, Deep Learning, Advanced Python, Generative AI, LLM, AWS.
 - **Madurai Kamaraj University** - MSc & Bsc -Math & Computer Programming
 
 ### Technical Skills
