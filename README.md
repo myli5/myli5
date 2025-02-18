@@ -34,12 +34,24 @@
 
 
 ### Certifications
-<html><body>Microsoft</body><ul>
+<html>
+  <body>NVIDIA</body><ul>
+  <li>https://learn.nvidia.com/certificates?id=E7TjdE4XTZyTqELWsnVjxw# Building LLM Applications With Prompt Engineering</li>
+  <li>https://learn.nvidia.com/certificates?id=PPUzaszERjy3ng7rygMWEg Fundamentals of Accelerated Computing with CUDA Python</li>
+  <li>https://learn.nvidia.com/certificates?id=X3pBE8mQR2eztRKOgAE9Lg Getting Started with Accelerated Computing in CUDA C/C++</li>
+  <li>https://learn.nvidia.com/certificates?id=rgUgsoYoTWWJi3bTZTxfdw Accelerating End-to-End Data Science Workflows</li>
+  <li>https://learn.nvidia.com/certificates?id=VObU1DqtRzeRlaOBxv5DCg Fundamentals of Accelerated Computing with OpenACC</li>
+  <li>https://learn.nvidia.com/certificates?id=QWuHF_StSsKls2fC7WvWXQ Getting Started with Deep Learning </li>
+  <li>https://learn.nvidia.com/certificates?id=dqawuyl8RhaQ_xHovVbiCQ Introduction to Transformer-Based Natural Language Processing </li>
+  <li>https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:25308367-69ae-454b-80a8-30ac4ceb8978 AI for All: From Basics to GenAI Practice</li>
+</ul>  
+  
+  <body>Microsoft</body><ul>
   <li>https://www.credly.com/badges/c96ebfe3-ee88-4482-8716-c8574f243624 DP-200 Implementing an Azure Data Solution</li>
   <li>https://www.credly.com/badges/44f61682-b70a-4b12-bcaf-5c6fb8d861ff DP-201 Designing an Azure Data Solution</li>
   <li>https://www.credly.com/badges/0f4313b6-b459-42af-96eb-5d6fb83a0036 Azure Data Engineer Associate</li>
   <li>https://www.credly.com/badges/33a043a3-6a8c-4955-a5b1-54d21d8a0c78 Azure AI Engineer Associate</li>
-  <li>https://www.credly.com/badges/f3f618b7-0f55-4288-8be1-57375b999595 - Microsoft Azure Architect Design</li>
+  <li>https://www.credly.com/badges/f3f618b7-0f55-4288-8be1-57375b999595 Microsoft Azure Architect Design </li>
 </ul>  
 <body>Databricks</body>
 <ul>
