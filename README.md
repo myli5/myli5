@@ -43,6 +43,8 @@
   <li>https://learn.nvidia.com/certificates?id=QWuHF_StSsKls2fC7WvWXQ Getting Started with Deep Learning </li>
   <li>https://learn.nvidia.com/certificates?id=dqawuyl8RhaQ_xHovVbiCQ Introduction to Transformer-Based Natural Language Processing </li>
   <li>https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:25308367-69ae-454b-80a8-30ac4ceb8978 AI for All: From Basics to GenAI Practice</li>
+  <li>https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:72e3052e-02a4-40d9-b223-7e21c67c7b87 NVIDIA AI Enterprise for Azure Professionals</li>
+  <li>https://learn.nvidia.com/certificates?id=GmG13YJCS4aNomxBp9TaaQ Generative AI with Diffusion Models </li>  
 </ul>  
   
   <body>Microsoft</body><ul>
