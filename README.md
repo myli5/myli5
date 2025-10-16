@@ -8,7 +8,7 @@
 
 ### Education
 - **Harvard Business School** - AI Essentials for Business - Jan 2025 - Feb 2025
-- **Purdue University Global** - MS -Data & Analytics--Graduating Nov 2024 -
+- **Purdue University Global** - MS -Data & Analytics--Graduated 2025 -
   Machine Learning, Advanced AI, Deep Learning, Advanced Python, Generative AI, LLM, AWS.
 - **Madurai Kamaraj University** - MSc & Bsc -Math & Computer Programming
 
