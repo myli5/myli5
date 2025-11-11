@@ -3,7 +3,6 @@
 #### Prompt-a-thon at Humana by using Google: 
 https://www.linkedin.com/posts/activity-7393819661932396544-90XY?utm_source=share&utm_medium=member_desktop&rcm=ACoAABCGoYkB-x9CiUusK04wLQOWTv7NFOeenxI
 
-https://www.linkedin.com/posts/activity-7393819661932396544-90XY?utm_source=share&utm_medium=member_desktop&rcm=ACoAABCGoYkB-x9CiUusK04wLQOWTv7NFOeenxI
 #### YouTube Channels
 <ul>
   <li>https://www.youtube.com/watch?v=gXxTKVs-GxY)</li>
