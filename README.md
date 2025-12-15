@@ -84,7 +84,7 @@ https://www.linkedin.com/posts/activity-7393819661932396544-90XY?utm_source=shar
   <li>https://www.credly.com/badges/0c3bc5eb-6a68-4789-b15a-0bb37ffab5db - Hands On Essentials - Data Sharing </li>
   <li>https://www.credly.com/badges/ee26f488-51c9-4594-be5e-52c568da6727 - Hands On Essentials - Data Applications </li>
   <li>https://www.credly.com/badges/ab70ca45-da5e-4831-9a16-3f62a29f0cdb - Hands On Essentials - Data Warehouse </li>  
-  <li Hands-On Essentials: Data Science Workshop -  https://achieve.snowflake.com/70262eb5-2a91-4ede-a8f9-c8db5919f21d#acc.cTuybqLs</li>
+  <li>https://achieve.snowflake.com/70262eb5-2a91-4ede-a8f9-c8db5919f21d#accTuybqLs - Hands-On Essentials: Data Science Workshop</li>
 </ul>
   
 </ul>
