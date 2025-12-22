@@ -38,6 +38,8 @@ https://www.linkedin.com/posts/activity-7393819661932396544-90XY?utm_source=shar
 ### Certifications
 <html>
   <body>NVIDIA</body><ul>
+  <li>https://www.credly.com/badges/5719a3f2-39df-48d6-a0bf-5f897634d7ba Certified Associate: Generative AI LLMs(NCA-GENL) </li>
+  <li>https://www.credly.com/badges/862dc526-e39e-4930-9d15-e39b00102d77 Certified Associate: AI Infrastructure and Operations(NCA-AIIO)</li>
   <li>https://learn.nvidia.com/certificates?id=E7TjdE4XTZyTqELWsnVjxw# Building LLM Applications With Prompt Engineering</li>
   <li>https://learn.nvidia.com/certificates?id=PPUzaszERjy3ng7rygMWEg Fundamentals of Accelerated Computing with CUDA Python</li>
   <li>https://learn.nvidia.com/certificates?id=X3pBE8mQR2eztRKOgAE9Lg Getting Started with Accelerated Computing in CUDA C/C++</li>
